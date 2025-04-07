@@ -35,6 +35,6 @@ Here is a collection of outstanding research papers and valuable open-source res
 
 
 
-## Outstanding Navigation Teams or Laboratories
+## Outstanding Teams or Laboratories
 - [Robotic AI & Learning Lab, UC Berkeley](http://rail.eecs.berkeley.edu/publications.html)
 - [CORAL Lab](https://corallab.net/)
