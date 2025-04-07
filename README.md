@@ -6,8 +6,8 @@ Here is a collection of outstanding research papers and valuable open-source res
 
 ### zero-shot (object) navigation
 
-- [OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models] (https://arxiv.org/pdf/2402.10670), [`arXiv 2024`, [project](https://github.com/yxKryptonite/OpenFMNav)]
-- [SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation] (https://arxiv.org/pdf/2410.08189), [`NeurIPS 2024`,[project](https://github.com/bagh2178/SG-Nav)]
+- [OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models](https://arxiv.org/pdf/2402.10670), [`arXiv 2024`, [project](https://github.com/yxKryptonite/OpenFMNav)]
+- [SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation](https://arxiv.org/pdf/2410.08189), [`NeurIPS 2024`,[project](https://github.com/bagh2178/SG-Nav)]
 - [VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model](https://arxiv.org/pdf/2401.02695), [`ICML 2024`,[project page](https://voro-nav.github.io/)]
 - [FloNa: Floor Plan Guided Embodied Visual Navigation](https://arxiv.org/pdf/2412.18335), [`AAAI 2025 Oral`, [project page](https://gauleejx.github.io/flona/)]
 
@@ -28,7 +28,7 @@ Here is a collection of outstanding research papers and valuable open-source res
 ### Physics-Informed planner
 - [Ntfields: Neural time fields for physics-informed robot motion planning](https://arxiv.org/abs/2210.00120), [`ICLR 2023, Spotlight`, [project](https://github.com/ruiqini/NTFields)]
 - [Progressive learning for physics-informed neural motion planning](https://arxiv.org/abs/2306.00616), [`RSS 2023`, [project](https://github.com/ruiqini/P-NTFields)]
-- [PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function](https://arxiv.org/pdf/2410.12805), [`SIGGRAPH Asia 2024 Conference`, [project page]](https://zju3dv.github.io/pc-planner/)
+- [PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function](https://arxiv.org/pdf/2410.12805), [`SIGGRAPH Asia 2024 Conference`, [project page](https://zju3dv.github.io/pc-planner/)]
 
 
 
