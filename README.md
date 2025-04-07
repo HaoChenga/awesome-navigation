@@ -39,4 +39,4 @@ Here is a collection of outstanding research papers and valuable open-source res
 
 ## Outstanding Teams or Laboratories
 - [Robotic AI & Learning Lab, UC Berkeley](http://rail.eecs.berkeley.edu/publications.html)
-- [CORAL Lab](https://corallab.net/)
+- [CORAL Lab, Purdue University](https://corallab.net/)
