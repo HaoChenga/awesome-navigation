@@ -18,7 +18,8 @@ Here is a collection of outstanding research papers and valuable open-source res
 
 
 ### VLN-CE
-- [Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2409.02522)
+- [Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/abs/2004.02857), [`ECCV 2020`, [project page](https://jacobkrantz.github.io/vlnce/)]
+- [DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation](https://arxiv.org/pdf/2308.07498), [`ICCV 2023`, [project](https://github.com/hanqingwangai/Dreamwalker)]
 - [Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2412.10137), [`arxiv 2024`, [project page](https://chenkehan21.github.io/CA-Nav-project)]
 
 
@@ -29,6 +30,7 @@ Here is a collection of outstanding research papers and valuable open-source res
 - [Ntfields: Neural time fields for physics-informed robot motion planning](https://arxiv.org/abs/2210.00120), [`ICLR 2023, Spotlight`, [project](https://github.com/ruiqini/NTFields)]
 - [Progressive learning for physics-informed neural motion planning](https://arxiv.org/abs/2306.00616), [`RSS 2023`, [project](https://github.com/ruiqini/P-NTFields)]
 - [PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function](https://arxiv.org/pdf/2410.12805), [`SIGGRAPH Asia 2024 Conference`, [project page](https://zju3dv.github.io/pc-planner/)]
+- [Physics­-informed Temporal Difference Metric Learning for Robot Motion Planning](https://openreview.net/forum?id=TOiageVNru), [`ICLR 2025`, [project](https://github.com/ruiqini/ntrl-demo)]
 
 
 
