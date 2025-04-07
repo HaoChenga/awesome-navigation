@@ -2,7 +2,7 @@
 Here is a collection of outstanding research papers and valuable open-source resources related to navigation. It will be continuously updated to track the forefront of navigation research. This serves as both a personal record and an open resource for those with similar interests. If there are any omissions, please feel free to contribute by submitting pull requests.
 
 
-## paper
+## Paper
 
 ### Zero-shot (object) navigation
 
@@ -19,7 +19,7 @@ Here is a collection of outstanding research papers and valuable open-source res
 
 ### VLN-CE
 - [Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2409.02522)
-
+- [Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments](https://arxiv.org/pdf/2412.10137), [`arxiv 2024`, [project page](https://chenkehan21.github.io/CA-Nav-project)]
 
 
 
