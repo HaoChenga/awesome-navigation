@@ -37,6 +37,7 @@ Here is a personal collection of research papers and open-source resources relat
 
 ### Autonomous Driving
 - [Enhancing End-to-End Autonomous Driving with Latent World Model ](https://arxiv.org/pdf/2406.08481), [`ICLR 2025`, [project](https://github.com/BraveGroup/LAW)]
+- -[GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving](https://arxiv.org/abs/2503.05689), [`CVPR 2025`, [project](https://github.com/YvanYin/GoalFlow)]
 
 
 
