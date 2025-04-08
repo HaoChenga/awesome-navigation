@@ -35,8 +35,21 @@ Here is a personal collection of research papers and open-source resources relat
 
 
 
+### Autonomous Driving
+- [Enhancing End-to-End Autonomous Driving with Latent World Model ](https://arxiv.org/pdf/2406.08481), [`ICLR 2025`, [project](https://github.com/BraveGroup/LAW)]
+
+
+
+
+
+
+
+
 
 
 ## Navigation Related Teams or Laboratories
 - [Robotic AI & Learning Lab, UC Berkeley](http://rail.eecs.berkeley.edu/publications.html)
 - [CORAL Lab, Purdue University](https://corallab.net/)
+
+
+
