@@ -24,13 +24,12 @@ Here is a personal collection of research papers and open-source resources relat
 
 
 
-
-
 ### Physics-Informed neural planner
 - [Ntfields: Neural time fields for physics-informed robot motion planning](https://arxiv.org/abs/2210.00120), [`ICLR 2023, Spotlight`, [project](https://github.com/ruiqini/NTFields)]
 - [Progressive learning for physics-informed neural motion planning](https://arxiv.org/abs/2306.00616), [`RSS 2023`, [project](https://github.com/ruiqini/P-NTFields)]
 - [PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function](https://arxiv.org/pdf/2410.12805), [`SIGGRAPH Asia 2024 Conference`, [project page](https://zju3dv.github.io/pc-planner/)]
 - [Physics­-informed Temporal Difference Metric Learning for Robot Motion Planning](https://openreview.net/forum?id=TOiageVNru), [`ICLR 2025`, [project](https://github.com/ruiqini/ntrl-demo)]
+
 
 ### Imperative Learning for planning
 - [iPlanner: Imperative Path Planning](https://arxiv.org/pdf/2302.11434), [`RSS 2023`, [project](https://github.com/leggedrobotics/iPlanner)]
