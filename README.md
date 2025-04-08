@@ -37,6 +37,6 @@ Here is a personal collection of research papers and open-source resources relat
 
 
 
-## Outstanding Teams or Laboratories
+## Navigation Related Teams or Laboratories
 - [Robotic AI & Learning Lab, UC Berkeley](http://rail.eecs.berkeley.edu/publications.html)
 - [CORAL Lab, Purdue University](https://corallab.net/)
