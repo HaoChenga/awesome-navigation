@@ -1,5 +1,5 @@
 # Awesome-Navigation
-Here is a personal collection of research papers and open-source resources related to navigation. It will be continuously updated to track the forefront of navigation research. This serves as both a personal record and an open resource for those with similar interests. if you find some interesting papers, please feel free to contribute by submitting pull requests.
+Here is a personal collection of research papers and open-source resources related to navigation. It will be continuously updated to track the forefront of navigation research. This serves as both a personal record and an open resource for those with similar interests. if you find any interesting papers related to navigation, please feel free to contribute by submitting pull requests.
 
 
 ## Paper
