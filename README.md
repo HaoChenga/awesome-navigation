@@ -32,14 +32,13 @@ Here is a personal collection of research papers and open-source resources relat
 - [PC-Planner: Physics-Constrained Self-Supervised Learning for Robust Neural Motion Planning with Shape-Aware Distance Function](https://arxiv.org/pdf/2410.12805), [`SIGGRAPH Asia 2024 Conference`, [project page](https://zju3dv.github.io/pc-planner/)]
 - [Physics­-informed Temporal Difference Metric Learning for Robot Motion Planning](https://openreview.net/forum?id=TOiageVNru), [`ICLR 2025`, [project](https://github.com/ruiqini/ntrl-demo)]
 
-
+### Imperative Learning for planning
+- [iPlanner: Imperative Path Planning](https://arxiv.org/pdf/2302.11434), [`RSS 2023`, [project](https://github.com/leggedrobotics/iPlanner)]
 
 
 ### Autonomous driving for planning
 - [Enhancing End-to-End Autonomous Driving with Latent World Model ](https://arxiv.org/pdf/2406.08481), [`ICLR 2025`, [project](https://github.com/BraveGroup/LAW)]
 - [GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving](https://arxiv.org/abs/2503.05689), [`CVPR 2025`, [project](https://github.com/YvanYin/GoalFlow)]
-
-
 
 
 
