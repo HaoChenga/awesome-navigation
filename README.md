@@ -33,6 +33,7 @@ Here is a personal collection of research papers and open-source resources relat
 
 ### Imperative Learning for planning
 - [iPlanner: Imperative Path Planning](https://arxiv.org/pdf/2302.11434), [`RSS 2023`, [project](https://github.com/leggedrobotics/iPlanner)]
+- [ViPlanner: Visual Semantic Imperative Learning for Local Navigation](https://arxiv.org/pdf/2310.00982), [`ICRA 2024`, [project](https://github.com/leggedrobotics/viplanner)]
 
 
 ### Autonomous driving for planning
