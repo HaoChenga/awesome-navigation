@@ -50,6 +50,8 @@ Here is a personal collection of research papers and open-source resources relat
 ## Navigation Related Teams or Laboratories
 - [Robotic AI & Learning Lab, UC Berkeley](http://rail.eecs.berkeley.edu/publications.html)
 - [CORAL Lab, Purdue University](https://corallab.net/)
+- [Smart Autonomous Robotics Group,  Southern University of Science and Technology](https://robotics-star.com/)
+- [Robotic Systems Lab, ETH Zurich](https://rsl.ethz.ch/)
 
 
 
