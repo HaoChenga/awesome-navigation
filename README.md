@@ -14,7 +14,7 @@ Here is a personal collection of research papers and open-source resources relat
 ### Goal-conditioned visual navigation
 - [GNM: A General Navigation Model to Drive Any Robot](https://arxiv.org/pdf/2210.03370), [`ICRA 2023`, [project](https://github.com/robodhruv/drive-any-robot)]
 - [NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration](https://arxiv.org/pdf/2310.07896), [`ICRA 2024, Best Paper Award Winner`，[project](https://github.com/robodhruv/drive-any-robot)]
-- [NaviDiffusor: Cost-Guided Diffusion Model for Visual Navigation](https://arxiv.org/abs/2504.10003), ['ICRA 2025', [project](https://github.com/SYSU-RoboticsLab/NaviD)]
+- [NaviDiffusor: Cost-Guided Diffusion Model for Visual Navigation](https://arxiv.org/abs/2504.10003), [`ICRA 2025`, [project](https://github.com/SYSU-RoboticsLab/NaviD)]
 
 
 
