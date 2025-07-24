@@ -16,7 +16,7 @@ Here is a personal collection of research papers and open-source resources relat
 - [NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration](https://arxiv.org/pdf/2310.07896), [`ICRA 2024, Best Paper Award Winner`，[project](https://github.com/robodhruv/drive-any-robot)]
 - [NaviDiffusor: Cost-Guided Diffusion Model for Visual Navigation](https://arxiv.org/abs/2504.10003), [`ICRA 2025`, [project](https://github.com/SYSU-RoboticsLab/NaviD)]
 - [X-MOBILITY: End-To-End Generalizable Navigation via World Modeling](https://arxiv.org/abs/2410.17491),[`ICRA 2025`,[project](https://nvlabs.github.io/X-MOBILITY/)]
-
+- [NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/abs/2505.08712)[`arxiv 2025`,[project page](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)]
 
 
 ### VLN-CE
